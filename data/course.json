@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "8dcad568-f702-6b48-470f-3d323e3ebf7e",
+  "instructors": {
+    "content": [
+      "006e5c25-e7be-44ee-b7a0-e39b494bf627"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8f390bc5-d270-18b4-ea7e-4fb973e14c34",
+    "website": "18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008"
+  },
+  "course_title": "Topics in Algebraic Geometry: Algebraic Surfaces",
+  "course_description": "The main aims of this seminar will be to go over the classification of surfaces (Enriques-Castelnuovo for characteristic zero, Bombieri-Mumford for characteristic p), while working out plenty of examples, and treating their geometry and arithmetic as far as possible.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.727",
+  "course_image_thumbnail": {
+    "content": "981e6720-2cef-e7b5-13f5-3353fcd6b7aa",
+    "website": "18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "e1648293-4baa-4aeb-b292-d7b43e29092c",
+  "site_short_id": "18.727-spring-2008",
+  "site_url_path": "courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008",
+  "title": "Course Metadata"
+}
