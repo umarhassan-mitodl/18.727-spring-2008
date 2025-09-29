@@ -4,6 +4,8 @@ description: Lecture notes on ruled algebraic surfaces.
 file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/25df5925f0a5221eb65308f166960a9a_lect6.pdf
 file_size: 160629
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

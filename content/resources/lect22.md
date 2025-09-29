@@ -4,6 +4,8 @@ description: Lecture notes on classification of algebraic surfaces, and moduli.
 file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/9a90c492ba0c219fb0129b2c3cda9950_lect22.pdf
 file_size: 162408
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

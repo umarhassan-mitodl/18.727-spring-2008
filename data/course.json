@@ -26,6 +26,7 @@
     "website": "18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008"
   },
   "course_title": "Topics in Algebraic Geometry: Algebraic Surfaces",
+  "hide_download": true,
   "course_description": "The main aims of this seminar will be to go over the classification of surfaces (Enriques-Castelnuovo for characteristic zero, Bombieri-Mumford for characteristic p), while working out plenty of examples, and treating their geometry and arithmetic as far as possible.\n",
   "department_numbers": [
     "18"
@@ -36,6 +37,7 @@
     "content": "981e6720-2cef-e7b5-13f5-3353fcd6b7aa",
     "website": "18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

@@ -4,6 +4,8 @@ description: Lecture notes on elliptic surfaces and Kodaira dimension 0.
 file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/67f189bed92e23809b7082b5ec67b655_lect15.pdf
 file_size: 173266
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

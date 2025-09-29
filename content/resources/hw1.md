@@ -4,6 +4,8 @@ description: Problem set on algebraic geometry.
 file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/b786cb87649bba42ffdb8549d8f1e5de_hw1.pdf
 file_size: 56900
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

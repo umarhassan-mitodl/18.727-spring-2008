@@ -4,6 +4,8 @@ description: Lecture notes on linear systems and rational normal scrolls.
 file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/d7105c4a8477abd296728296a5a7eebb_lect8.pdf
 file_size: 162012
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
