@@ -4,8 +4,6 @@ description: Lecture notes on algebraically closed ruled surfaces.
 file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/01767d4bef386f92c482c478e832fd2c_lect5.pdf
 file_size: 194897
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Lecture notes on Castelnuovo's criterion for rationality.
 file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/01d543f81d0b743f06deed68d9eec77d_lect9.pdf
 file_size: 167927
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

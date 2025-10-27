@@ -4,8 +4,6 @@ description: Lecture notes on Picard and Albanese varieties.
 file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/3d867f3ce99fa44cc12a6e39cd48177a_lect10.pdf
 file_size: 163248
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

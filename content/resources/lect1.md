@@ -4,8 +4,6 @@ description: Introductory lecture notes on algebraic surfaces.
 file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/cce30335f2f48854721e541f1c4cb536_lect1.pdf
 file_size: 166197
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

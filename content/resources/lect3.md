@@ -5,8 +5,6 @@ description: Lecture notes on birational maps, rational maps, linear systems, an
 file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/1ac4b82daa4485674ad67c21b5a49e7a_lect3.pdf
 file_size: 174312
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
